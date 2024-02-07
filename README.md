@@ -13,3 +13,4 @@ following io.cucumber docs
       - maven-surefire-plugin
       - cucumber-junit, junit 4
       - assertions - junit, assertj, hamcrest or testng
+      - dependency injection - pico container
