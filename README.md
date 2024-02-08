@@ -14,3 +14,9 @@ following io.cucumber docs
       - cucumber-junit, junit 4
       - assertions - junit, assertj, hamcrest or testng
       - dependency injection - pico container
+
+#2 guides
+  - introduction
+    - what is cucumber, gherkin, stepdefinition
+  - 10 minute tutorial
+  -   
